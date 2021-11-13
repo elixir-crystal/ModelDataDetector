@@ -1,0 +1,9 @@
+name: ModelDataDetector
+
+author: Freeze_Dolphin
+
+main: io.elixir_crystal.model_data_detector.PlugGividado
+version: ${project.version}
+
+depend:
+  - RedLib

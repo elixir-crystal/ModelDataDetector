@@ -1,0 +1,11 @@
+modatadetector,mdd {
+
+    permission modatadetector.cmd
+
+    reload {
+        permission modatadetector.cmd.reload
+        help Reload configuration.
+        hook reload
+    }
+
+}
